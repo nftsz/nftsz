@@ -28,16 +28,16 @@
 </div>
 
 ---
+
 <!-- Language Stats -->
 <div align="right" style="margin:auto">
      <a href="https://github.com/nftsz">
         <img height="170em"
-             src="https://github-readme-stats-523ybmq5l-academic-prrrojcts.vercel.app/api/top-langs/?username=nftsz"
+             src="https://github-readme-stats-523ybmq5l-academic-prrrojcts.vercel.app/api/top-langs/?username=nftsz&hide=jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
              alt="Most used languages"
              align="right">
     </a>
 </div>
-
 
 <!-- Breve Descricao -->
 Here, I'm just another technology enthusiast. I work on some projects in Python and am currently dedicated to learning more about other tools, always seeking to further expand my programming knowledge. I started in the area because I often felt the need to obtain tools that I couldn't find on the internet, so I decided to create them myself. <br>
