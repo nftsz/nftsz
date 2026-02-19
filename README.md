@@ -1,7 +1,7 @@
 <h1 align="center"> Naftaly Souza </h1>
     
 <div align="center">
-  <b> Backend developer | Linux enthusiast | Game systems curious </b>
+  <b> Backend developer | Linux enthusiast | Systems explorer </b>
   <br>
   <br>
   
@@ -13,19 +13,9 @@
 </div>
 
 <!-- Socials -->
-<div align="center">
-    <a target="_blank" style="text-decoration: none;">
-        <a href="https://www.linkedin.com/in/nftsz/">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-        </a>
-        <a href="https://twitter.com/0xblkowl" target="_blank">
-            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
-        </a>
-        <a href ="mailto:naft.dev@proton.me">
-            <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
-        </a>
-    </a>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b7b5807-ffd1-44fd-9dbe-adf163ba9818" alt="pixel-jeff-mario">
+</p>
 
 ---
 
@@ -40,33 +30,34 @@
 </div>
 
 <!-- Breve Descricao -->
-Here, I'm just another technology enthusiast. I work on some projects in Python and am currently dedicated to learning more about other tools, always seeking to further expand my programming knowledge. I started in the area because I often felt the need to obtain tools that I couldn't find on the internet, so I decided to create them myself. <br>
-My focus as a programmer is problem solving and task automation. I like new challenges and learning new technologies.
+
+I’m a backend-focused developer driven by curiosity, problem solving, and the need to understand how things really work. My interest in software grew from the habit of breaking things just to figure out how to fix them or taking something already broken and finding a way to make it work again. Programming became a natural extension of that mindset: building tools, experimenting, and creating solutions when they don’t exist. I always care about understanding the “why,” not just the “how,”.
+I’m mostly self-taught and spend a large part of my time learning on my own and exploring the Linux world.<br>
+
+<p align="center">
+    I see technology as a tool, not a limitation. I adapt to whatever is necessary and focus on creating functional, efficient solutions. 
+</p>
+    
+
 
 ---
 
-<div align="center">
-  
-  <!-- Linguagens -->
+<p align="center" style="white-space: nowrap;">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-  <br>
-
-  <!-- Ferramentas -->
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+<!--
+<p align="center" style="white-space: nowrap;">
+</p>
+-->
 
-</div>
-
-<br>
-
+ <!-- Views -->
 <div align="center">
-  <!-- Views -->
   <img src="https://komarev.com/ghpvc/?username=nftsz"/>
 </div>
 
@@ -75,5 +66,4 @@ My focus as a programmer is problem solving and task automation. I like new chal
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 -->
