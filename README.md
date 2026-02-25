@@ -31,7 +31,7 @@
 
 <!-- Breve Descricao -->
 
-I am a developer focused on back-end and driven by curiosity. My interest in software arose from the habit of breaking things just to figure out how to fix them, or taking something that was already broken and finding a way to make it work again. <br>
+I am a developer focused on back-end and driven by curiosity. My interest in software grew from the habit of breaking things just to figure out how to fix them, or taking something that was already broken and finding a way to make it work again. <br>
 From that, the habit of experimenting and creating solutions came naturally, always making sure to understand the “why,” not just the “how.”.
 <br>
 <br>
