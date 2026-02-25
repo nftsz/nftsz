@@ -31,11 +31,14 @@
 
 <!-- Breve Descricao -->
 
-I’m a backend-focused developer driven by curiosity, problem solving, and the need to understand how things really work. My interest in software grew from the habit of breaking things just to figure out how to fix them or taking something already broken and finding a way to make it work again. Programming became a natural extension of that mindset: building tools, experimenting, and creating solutions when they don’t exist. I always care about understanding the “why,” not just the “how,”.
-I’m mostly self-taught and spend a large part of my time learning on my own and exploring the Linux world.<br>
-
+I am a developer focused on back-end and driven by curiosity. My interest in software arose from the habit of breaking things just to figure out how to fix them, or taking something that was already broken and finding a way to make it work again. <br>
+From that, the habit of experimenting and creating solutions came naturally, always making sure to understand the “why,” not just the “how.”.
+<br>
+<br>
+I am mostly self-taught and spend a large part of my time learning on my own and exploring the Linux world. 
+<br>
 <p align="center">
-    I see technology as a tool, not a limitation. I adapt to whatever is necessary and focus on creating functional, efficient solutions. 
+    I see technology as a tool, not a limitation. I adapt to whatever is necessary with a focus on creating functional, efficient solutions. 
 </p>
     
 
