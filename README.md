@@ -23,7 +23,7 @@
 <div align="right" style="margin:auto">
      <a href="https://github.com/nftsz">
         <img height="170em"
-             src="./profile/top-langs.svg"
+             src="./profile/stats.svg"
              alt="Most used languages"
              align="right">
     </a>
