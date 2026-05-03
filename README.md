@@ -1,13 +1,13 @@
 <h1 align="center"> Naftaly Souza </h1>
     
 <div align="center">
-  <b> Backend developer | Linux enthusiast | Systems explorer </b>
+  <b> Backend developer | Linux enthusiast | Old Games Lover </b>
   <br>
   <br>
   
   <blockquote>
       <p><i>
-          "Every line of code is like a clue in a treasure hunt game, taking us closer to the desired solution."
+          "I see technology as a tool, never as a limitation. I adapt quickly to whatever is needed to achieve the best results."
       </i></p>
   </blockquote>
 </div>
@@ -28,23 +28,7 @@
              align="right">
     </a>
 </div>
-
-<!-- Breve Descricao -->
-
-I am a developer focused on back-end and driven by curiosity. My interest in software grew from the habit of taking something that was already broken and finding a way to make it work again. <br>
-From that, the habit of experimenting and creating solutions came naturally, always making sure to understand the “why,” not just the “how.”.
 <br>
-<br>
-I am mostly self-taught and spend a large part of my time learning on my own and exploring the Linux world. 
-<br>
-<p align="center">
-    I see technology as a tool, not a limitation. I adapt to whatever is necessary with a focus on creating functional, efficient solutions. 
-</p>
-    
-
-
----
-
 <p align="center" style="white-space: nowrap;">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
