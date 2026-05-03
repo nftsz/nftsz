@@ -12,12 +12,9 @@
   </blockquote>
 </div>
 
-<!-- Socials -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9b7b5807-ffd1-44fd-9dbe-adf163ba9818" alt="pixel-jeff-mario">
 </p>
-
----
 
 <!-- Language Stats -->
 <div align="right" style="margin:auto">
@@ -28,7 +25,9 @@
              align="right">
     </a>
 </div>
+
 <br>
+<!-- Language and Technologies -->
 <p align="center" style="white-space: nowrap;">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
