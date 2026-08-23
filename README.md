@@ -4,7 +4,7 @@
   <b> Backend developer | Linux enthusiast | Old Games Lover </b>
   <br>
   <br>
-  
+
   <blockquote>
       <p><i>
           "I see technology as a tool, never as a limitation. I adapt quickly to whatever is needed to achieve the best results."
@@ -46,6 +46,11 @@
  <!-- Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nftsz"/>
+</div>
+
+ <!-- Contact -->
+<div align="center">
+ <a href="https://x.com/0xblkowl">x</a> | <a href="mailto:naft.dev@proton.me">email</a>
 </div>
 
 
